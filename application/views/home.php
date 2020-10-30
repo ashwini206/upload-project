@@ -52,7 +52,7 @@
                                         <tr class="odd gradeX">
                                             <td><?php echo @$r['id'] ?></td>
                                             <td><?php echo @$r['User_Name']; ?></td>
-                                            <td><?php echo @$r['Mobile_NO']; ?></td>
+                                            <td><?php echo @$r['Mobile_No']; ?></td>
                                             <td><img class="upload" src="<?php echo @$image;?>"></td>
                                              <td>
                                                <?php
